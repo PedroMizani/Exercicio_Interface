@@ -1,0 +1,15 @@
+D:\Projetos C#\ExerInterface\ExerInterface\bin\Debug\net6.0\ExerInterface.exe
+D:\Projetos C#\ExerInterface\ExerInterface\bin\Debug\net6.0\ExerInterface.deps.json
+D:\Projetos C#\ExerInterface\ExerInterface\bin\Debug\net6.0\ExerInterface.runtimeconfig.json
+D:\Projetos C#\ExerInterface\ExerInterface\bin\Debug\net6.0\ExerInterface.dll
+D:\Projetos C#\ExerInterface\ExerInterface\bin\Debug\net6.0\ExerInterface.pdb
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.csproj.AssemblyReference.cache
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.AssemblyInfoInputs.cache
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.AssemblyInfo.cs
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.dll
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\refint\ExerInterface.dll
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.pdb
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ExerInterface.genruntimeconfig.cache
+D:\Projetos C#\ExerInterface\ExerInterface\obj\Debug\net6.0\ref\ExerInterface.dll
